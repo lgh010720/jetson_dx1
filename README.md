@@ -4,6 +4,11 @@ start, end1, time1 : 반복문 내부 코드의 실행시간을 측정, 출력
 
 leftspeed, rightspeed : 각 바퀴 속도 입력
 
+### 실행결과
+
+![image](https://github.com/user-attachments/assets/48901f70-06b4-4e58-8769-1188877848b1)
+
+
 ---
 
 #### Ctrl+c를 누르면 바로 종료하지 않고 명령을 한번 더 입력하면 종료하는데 이유를 설명하라. 이걸 해결하려면 어떻게 해야 하는지 나중에 생각해볼 것
